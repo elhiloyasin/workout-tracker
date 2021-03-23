@@ -23,7 +23,7 @@
 ## SCREENSHOT OF APPLICATION
 
 ![Last-Workout](images/lastworkout.png)
-![Workout-Dashboard](images/lastworkout.png)
+![Workout-Dashboard](images/workoutdashbord.png)
 
 
 
