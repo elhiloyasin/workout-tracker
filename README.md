@@ -18,7 +18,7 @@
 
 ## REPOLINK  
 
->[Fitness-Tracker](https://github.com/elhiloyasin/fitnessTracker)
+>[Fitness-Tracker](https://github.com/elhiloyasin/workout-tracker)
 
 
 
